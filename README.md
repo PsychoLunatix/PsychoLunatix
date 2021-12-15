@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PsychoLunatix
+- 👀 I’m interested in mod development, exploit dev & cyber sec
+- 🌱 I’m currently learning Rustlang
+- Contact me on discord /// [ٴLunatix Psychoٴ]#8888
